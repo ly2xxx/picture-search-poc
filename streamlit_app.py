@@ -2,8 +2,8 @@ import streamlit as st
 import os
 from pathlib import Path
 from sentence_transformers import SentenceTransformer
-import weaviate
-from weaviate.classes.config import Property, DataType
+# import weaviate
+# from weaviate.classes.config import Property, DataType
 # import libraries
 import streamlit as st
 import tkinter as tk

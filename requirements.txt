@@ -1,4 +1,4 @@
-# weaviate-client==4.5.5
+pip # weaviate-client==4.5.5
 sentence-transformers==2.2.2
 Pillow==9.3.0
 streamlit

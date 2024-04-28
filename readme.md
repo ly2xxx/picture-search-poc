@@ -26,6 +26,11 @@ Install the required dependencies in the virtual environment :
 pip install -r requirements.txt
 ```
 
+Linux user might need:
+```bash
+sudo apt-get install python3-tk
+```
+
 <!-- Setup gpt-2 tokenizer manually for langchain ConversationalRetrievalChain :
 Copy 
 `models\models--gpt2`
